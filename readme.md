@@ -1,4 +1,4 @@
-# Dengue Data Analysis Dashboard (Excel & Power BI)
+# Dengue Data Analysis Dashboard (Excel)
 
 ## 📊 Project Overview
 This project presents an interactive dashboard analyzing dengue cases in Dhaka, Bangladesh. Using advanced Excel functions, formulas, the data was processed, visualized, and transformed into meaningful insights to support health authorities in decision-making.
@@ -19,11 +19,11 @@ This project presents an interactive dashboard analyzing dengue cases in Dhaka, 
 - **Excel:** Power Query, Pivot Tables, Advanced Formulas(INDEX,MATCH,VLOOKUP,XLOOKUP etc.), Data Visualization
 
 ## 📷 Dashboard Snapshots
-![Dengue Dashboard](Images/Home Page.png)
-![Dengue Dashboard](Images/Analysis Page.png)
+![Dengue Dashboard](./Images/Home_Page.png)
+![Dengue Dashboard](./Images/Analysis_Page.png)
 
 ## 🚀 How to Use
-1. Open the `Excel_Dashboard.xlsx` file to explore the analysis.
+1. Open the `Dengue_data_Analysis.xlsm` file to explore the analysis.
 2. Review the insights and recommendations for a data-driven approach to dengue prevention.
 
 ## 📂 Repository Structure
